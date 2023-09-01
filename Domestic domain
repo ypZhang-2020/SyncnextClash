@@ -4,8 +4,6 @@ payload:
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-KEYWORD,zh188
-  - DOMAIN-KEYWORD,cz01
-  - DOMAIN-KEYWORD,czzy
   - DOMAIN-KEYWORD,zh188
   - DOMAIN-KEYWORD,kczybf
   - DOMAIN-KEYWORD,mixpanel
@@ -16,6 +14,5 @@ payload:
   - DOMAIN-KEYWORD,ctyunxs
   - DOMAIN-KEYWORD,bfzy
   - DOMAIN-KEYWORD,lzcdn
-  - DOMAIN-KEYWORD,akamaized
-  - DOMAIN-KEYWORD,kuaikan
-  - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,npmjs
+  - DOMAIN-KEYWORD,docker
