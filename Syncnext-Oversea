@@ -20,3 +20,24 @@ payload:
   - DOMAIN-SUFFIX,iole.tv
   - DOMAIN-SUFFIX,olehd.com
 
+   #唐人街https://www.tangrenjie.tv/
+ - DOMAIN-KEYWORD,tangrenjie
+  #影片域名与“海外看相同”
+  #海外看
+ - DOMAIN-KEYWORD,haiwaikan
+ - DOMAIN-KEYWORD,efhie
+ - DOMAIN-KEYWORD,ceres
+
+ #森林资源https://slapibf.com/
+ - DOMAIN-KEYWORD,slapibf
+ - DOMAIN-KEYWORD,vip.3slbfsl
+ #快车资源https://caiji.kczyapi.com/
+ - DOMAIN-KEYWORD,kczyapi
+ - DOMAIN-KEYWORD,kczybf
+ #探探资源https://apittzy.com/
+ - DOMAIN-KEYWORD,ttzy
+ - DOMAIN-KEYWORD,ttbf
+ #夸克资源http://kuakezy1.com/
+ - DOMAIN-KEYWORD,kuakezy
+ - DOMAIN-KEYWORD,kkzybf
+ - DOMAIN-KEYWORD,qwedfc
