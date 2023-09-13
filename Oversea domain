@@ -7,11 +7,9 @@ payload:
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,olemovienews
-  - DOMAIN,haiwaikan.com
+  - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-KEYWORD,bfvvs
-  - DOMAIN,cdn.venus7202.com
-  - DOMAIN,cdn.ceres9350.com
-  - DOMAIN,cdn.efhie.com
+  - DOMAIN-KEYWORD,cdn
   - DOMAIN-KEYWORD,jmsoo
   - DOMAIN-KEYWORD,ccemby
   - DOMAIN-KEYWORD,github
