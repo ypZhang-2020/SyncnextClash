@@ -14,7 +14,11 @@ payload:
   - DOMAIN-KEYWORD,ctyunxs
   - DOMAIN-KEYWORD,bfzy
   - DOMAIN-KEYWORD,lzcdn
-
-#快看资源
+  #快看资源
   - DOMAIN-KEYWORD,kuaikan
   - DOMAIN-KEYWORD,kkzy
+  #量子资源
+  - DOMAIN-KEYWORD,v.cdnlz
+  - DOMAIN-KEYWORD,lz-cdn
+  - DOMAIN-KEYWORD,lzizy
+
