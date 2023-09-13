@@ -17,3 +17,6 @@ payload:
   - DOMAIN-KEYWORD,czzy
   - DOMAIN-KEYWORD,npmjs
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
+
