@@ -10,21 +10,29 @@ payload:
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,ole-vod
   - DOMAIN-KEYWORD,olemovienews
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
   - DOMAIN-KEYWORD,bfvvs
 ##自用Emby规则
   - DOMAIN-KEYWORD,jmsoo
   - DOMAIN-KEYWORD,ccemby
   - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,cz01
-  - DOMAIN-KEYWORD,czzy
   - DOMAIN-KEYWORD,npmjs
   - DOMAIN-KEYWORD,docker
-  - DOMAIN-SUFFIX,iole.tv
-  - DOMAIN-SUFFIX,olehd.com
+##厂长资源规则，仅封面图片翻墙，资源国内
+  - DOMAIN-KEYWORD,cz01
+  - DOMAIN-KEYWORD,czzy
+
+##唐人街和海外看规则
   - DOMAIN-KEYWORD,tangrenjie
   - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-KEYWORD,efhie
   - DOMAIN-KEYWORD,ceres
+
+
+
+
+##18+的规则-
   - DOMAIN-KEYWORD,slapibf
   - DOMAIN-KEYWORD,vip.3slbfsl
   - DOMAIN-KEYWORD,slsltutu
