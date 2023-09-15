@@ -1,15 +1,17 @@
 payload:
+##Syncnext软件自用规则
   - DOMAIN-KEYWORD,v1.mk
   - DOMAIN-KEYWORD,notion
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,thetvdb
   - DOMAIN-KEYWORD,tmdb
   - DOMAIN-KEYWORD,discord
+##欧乐影视规则
   - DOMAIN-KEYWORD,olevod
   - DOMAIN-KEYWORD,ole-vod
   - DOMAIN-KEYWORD,olemovienews
   - DOMAIN-KEYWORD,bfvvs
-##卷毛书
+##自用Emby规则
   - DOMAIN-KEYWORD,jmsoo
   - DOMAIN-KEYWORD,ccemby
   - DOMAIN-KEYWORD,github
