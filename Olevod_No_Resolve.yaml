@@ -6,8 +6,8 @@
 # DOMAIN-SUFFIX: 4
 # TOTAL: 5
 payload:
-  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-KEYWORD,haiwaikan.com
   - DOMAIN-KEYWORD,iole
   - DOMAIN-KEYWORD,olehd
-  - -KEYWORD,olelive
+  - DOMAIN-KEYWORD,olelive
   - DOMAIN-KEYWORD,olevod
